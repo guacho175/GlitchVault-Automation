@@ -1,0 +1,17 @@
+{
+  "name": "audio_automation",
+  "version": "1.0.0",
+  "description": "Genera narracion en audio (TTS) para los guiones de GlitchVault usando la API de Gemini.",
+  "main": "generate_audio.js",
+  "type": "commonjs",
+  "scripts": {
+    "generate": "node generate_audio.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@google/genai": "^1.0.0",
+    "docx": "^9.7.1",
+    "dotenv": "^16.4.5",
+    "wav": "^1.0.2"
+  }
+}
