@@ -1,0 +1,485 @@
+{
+  "day": "09",
+  "videos": [
+    {
+      "id": "video_01",
+      "title": "Warhammer 40K: El Trono Dorado y los 1,000 Psíquicos Diarios",
+      "series": "Expedientes Grimdark (Warhammer 40,000)",
+      "audio_file": "assets/day_09/audio_notes/video_01_narration.wav",
+      "output_video": "assets/day_09/videos_finales/video_01_FINAL.mp4",
+      "clips": [
+        {
+          "index": 1,
+          "name": "hero",
+          "prompt": "Grimdark gothic sci-fi vertical video 9:16. Cinematic towering wide shot inside the Golden Throne chamber of Holy Terra. Kilometers-high gothic pillars, massive golden power conduits as thick as skyscrapers, flickering dim amber braziers, colossal skull statues, heavy CRT scanlines, 35mm gritty film grain."
+        },
+        {
+          "index": 2,
+          "name": "capsule",
+          "prompt": "Cinematic medium shot vertical video 9:16. Pale human psyker in tattered rags and heavy iron chains being strapped into a dark brass cryogenic coffin. Thick neural needles and glowing cables locking into his temples, dim warning lights, analog VHS texture."
+        },
+        {
+          "index": 3,
+          "name": "drained",
+          "prompt": "Terrifying close up vertical video 9:16. Golden psychic lightning arcing across the psyker's face as his eyes burn with blinding solar energy. Skin blistering, veins glowing bright gold, agonizing scream in extreme slow motion, cursed analog horror atmosphere."
+        },
+        {
+          "index": 4,
+          "name": "ashes",
+          "prompt": "Dark industrial gothic vertical video 9:16. Automated brass pods opening sequentially, dumping piles of smoking white human ash and charred bones onto metal grates. Mechanical servitors sweeping the dust with heavy iron shovels, eerie mechanical movement."
+        },
+        {
+          "index": 5,
+          "name": "astronomicon",
+          "prompt": "Epic cosmic sci-fi vertical video 9:16. Massive blinding golden psychic beam of light shooting into the black void of space from Holy Terra, piercing through swirling purple Warp storms. An imperial gothic warship gliding past camera, continuous motion until the end."
+        }
+      ],
+      "thumbnail_prompt": "Grimdark Warhammer 40k concept art vertical 9:16. Close up portrait of a human psyker inside a brass pod, his eyes burning with blinding golden fire and golden energy leaking from his mouth and skin cracks. Dark cathedral background with glowing cables. Bold yellow and white typography: \"1,000 ALMAS AL DÍA\" at top and \"EL TRONO DORADO\" at bottom.",
+      "text_overlays": [
+        "1,000 PSÍQUICOS CADA DÍA",
+        "EL COMBUSTIBLE DEL IMPERIO",
+        "EL TRONO DORADO AGONIZA",
+        "DRENADOS HASTA LA CENIZA",
+        "¿TE SACRIFICARÍAS?",
+        "COMENTA ABAJO"
+      ],
+      "metadata": {
+        "youtube_title": "El Horripilante Sacrificio del Trono Dorado (Warhammer 40K) ⚡💀 #shorts",
+        "tiktok_description": "1,000 personas deben morir hoy para que las naves viajen por la galaxia. ¿Te sacrificarías? #warhammer40k #imperio #astronomicon #tronodorado #lorewarhammer #glitchvault #shorts",
+        "hashtags": ["#warhammer40k", "#tronodorado", "#astronomicon", "#grimdark", "#cienciadficcion", "#glitchvault", "#shortsespañol"]
+      }
+    },
+    {
+      "id": "video_02",
+      "title": "Warhammer 40K: Los Amos de la Noche (Night Lords) y el Arte del Terror Psicológico",
+      "series": "Expedientes Grimdark (Warhammer 40,000)",
+      "audio_file": "assets/day_09/audio_notes/video_02_narration.wav",
+      "output_video": "assets/day_09/videos_finales/video_02_FINAL.mp4",
+      "clips": [
+        {
+          "index": 1,
+          "name": "blackout",
+          "prompt": "Grimdark sci-fi vertical video 9:16. Aerial cinematic shot of a massive sprawling futuristic gothic hive city. Suddenly all skyscraper lights blackout simultaneously into pitch darkness. Dark storm clouds roll in with sickly purple lightning flashing, analog VHS static."
+        },
+        {
+          "index": 2,
+          "name": "monitor",
+          "prompt": "Creepy analog horror vertical video 9:16. Close up of an old CRT television set turning on by itself in a dark room. Heavy green static screen suddenly glitching to reveal the terrifying silhouette of a horned space marine helmet, eerie camera shudder."
+        },
+        {
+          "index": 3,
+          "name": "night_lord",
+          "prompt": "Cinematic tracking shot vertical video 9:16. A towering Night Lord Space Marine in midnight blue power armor with painted lightning bolts and flayed skin parchment hanging from his pauldrons. Bat-wing crest on helmet, red glowing optical lenses, slow menacing stride through smoke."
+        },
+        {
+          "index": 4,
+          "name": "lightning_claws",
+          "prompt": "Dark fantasy visceral combat vertical video 9:16. In shadowy industrial corridors, glowing crackling blue lightning claws tear through shadows in sudden blinding flashes. Sparks bouncing off metal walls, terrifying kinetic movement, 35mm film grain."
+        },
+        {
+          "index": 5,
+          "name": "helmet_darkness",
+          "prompt": "Extreme close up vertical video 9:16 of the Night Lord helmet emerging from pure darkness. Glowing demonic crimson eyes staring intensely into camera, vapor hissing from breathing grille, continuous slow push-in until the end."
+        }
+      ],
+      "thumbnail_prompt": "Grimdark Warhammer 40k vertical 9:16 portrait. Terrifying Night Lord Space Marine emerging from pitch darkness, ornate midnight-blue armor with lightning designs, bat-wing helmet and glowing red demonic eyes staring forward. Flayed skin hanging from armor. Bold yellow and cyan typography: \"AMOS DE LA NOCHE\" at top and \"TERROR PSICOLÓGICO\" at bottom.",
+      "text_overlays": [
+        "GUERRA PSICOLÓGICA PURA",
+        "LA VIII LEGIÓN EN LA NIEBLA",
+        "CORTAN TODA LA LUZ",
+        "GARRAS RELÁMPAGO",
+        "¿AGUANTARÍAS EL TERROR?",
+        "COMENTA ABAJO"
+      ],
+      "metadata": {
+        "youtube_title": "La Legión que Conquista Planetas con Transmisiones de Terror (Warhammer 40K) 🦇📻 #shorts",
+        "tiktok_description": "No lanzaron bombas... solo transmitieron los gritos del presidente por radio. ¿Cuánto aguantarías? #warhammer40k #nightlords #konradcurze #grimdark #terrorpsicologico #glitchvault #shorts",
+        "hashtags": ["#warhammer40k", "#nightlords", "#curze", "#spacemarines", "#lorewarhammer", "#glitchvault", "#shortsespañol"]
+      }
+    },
+    {
+      "id": "video_03",
+      "title": "Warhammer 40K: El Virus Carnívoro (Life-Eater Virus) de Isstvan III",
+      "series": "Expedientes Grimdark (Warhammer 40,000)",
+      "audio_file": "assets/day_09/audio_notes/video_03_narration.wav",
+      "output_video": "assets/day_09/videos_finales/video_03_FINAL.mp4",
+      "clips": [
+        {
+          "index": 1,
+          "name": "torpedoes",
+          "prompt": "Grimdark sci-fi vertical video 9:16. Cinematic shot from low orbit of massive ornate gothic torpedoes falling toward a lush blue and green planet. Torpedoes firing retro-thrusters, dark ominous stars in background, heavy 35mm film grain."
+        },
+        {
+          "index": 2,
+          "name": "viral_mist",
+          "prompt": "Terrifying analog horror vertical video 9:16. The torpedoes detonate in mid-air above a bustling city, releasing a dense, unnatural black oily aerosol cloud spreading rapidly across streets and buildings like an avalanche of dark mist."
+        },
+        {
+          "index": 3,
+          "name": "decay",
+          "prompt": "Macro visceral body horror vertical video 9:16. Time-lapse style shot of plant leaves and a human hand rapidly decaying, turning black, liquefying into dark bubbling slime on metal cobblestones, CRT scanlines, eerie lighting."
+        },
+        {
+          "index": 4,
+          "name": "gas_and_lance",
+          "prompt": "Cinematic high altitude vertical video 9:16. The entire continent is now blanketed in a sickly greenish-yellow cloud of noxious methane gas. A blinding white lance beam from orbit strikes through the center of the cloud."
+        },
+        {
+          "index": 5,
+          "name": "global_ignition",
+          "prompt": "Apocalyptic sci-fi vertical video 9:16. The spark triggers a colossal wall of roaring orange and crimson fire sweeping across the planetary horizon at supersonic speed, incinerating everything in its wake, continuous fiery motion until the end."
+        }
+      ],
+      "thumbnail_prompt": "Grimdark sci-fi vertical 9:16. An imperial planet seen from space half-covered in thick black decaying mist and a massive wall of golden fire consuming continents. Skull iconography in the gas clouds. Bold bright yellow and blood-red typography: \"VIRUS CARNÍVORO\" at top and \"MUERTE EN 3 MINUTOS\" at bottom.",
+      "text_overlays": [
+        "EL ARMA BIOLÓGICA DEFINITIVA",
+        "DERRETIDO EN 3 MINUTOS",
+        "TODO SE VUELVE LODO NEGRO",
+        "LA TORMENTA DE FUEGO GLOBAL",
+        "¿SOBREVIVIRÍAS BAJO TIERRA?",
+        "COMENTA ABAJO"
+      ],
+      "metadata": {
+        "youtube_title": "El Virus que Derrite Planetas Enteros en 3 Minutos (Warhammer 40K) ☣️🔥 #shorts",
+        "tiktok_description": "No deja cenizas... solo fango negro y una atmósfera en llamas. ¿Qué harías en 180 segundos? #warhammer40k #isstvan #viruscarnivoro #grimdark #lorewarhammer #glitchvault #shorts",
+        "hashtags": ["#warhammer40k", "#lifeeater", "#isstvan", "#horusheresy", "#lore", "#glitchvault", "#shortsespañol"]
+      }
+    },
+    {
+      "id": "video_04",
+      "title": "Made in Abyss: La Maldición de la 6ta Capa y la Pérdida de Humanidad",
+      "series": "Archivos Prohibidos de Anime (Datos Curiosos / Icebergs con IA)",
+      "audio_file": "assets/day_09/audio_notes/video_04_narration.wav",
+      "output_video": "assets/day_09/videos_finales/video_04_FINAL.mp4",
+      "clips": [
+        {
+          "index": 1,
+          "name": "the_abyss",
+          "prompt": "Dark anime fantasy vertical video 9:16. Majestic, terrifying aerial shot looking straight down into an infinite colossal vertical chasm in the earth. Bioluminescent golden spores floating, layers of ancient ruins clinging to cliffs, ominous clouds swirling, 90s retro anime film aesthetic."
+        },
+        {
+          "index": 2,
+          "name": "diver_descending",
+          "prompt": "Cinematic vertical video 9:16. An intrepid cave raider in dark leather trench coat and brass diving helmet rappelling down steep golden crystal ruins. Eerie glowing flora, thick white mist, sense of immense dizzying scale, analog film grain."
+        },
+        {
+          "index": 3,
+          "name": "curse_reaction",
+          "prompt": "Visceral body horror anime vertical video 9:16. The raider tries to climb upward on a rope. Suddenly invisible gravity tears at his body, dark red blood spraying from his gloves and visor, agonizing spasms, camera shaking violently."
+        },
+        {
+          "index": 4,
+          "name": "narehate_mutation",
+          "prompt": "Surreal dark fantasy vertical video 9:16. The raider's body transforms in shadows into a strange, tragic fluffy white creature with weeping asymmetrical golden eyes and twisted horns, crying dark tears on a cold stone ledge."
+        },
+        {
+          "index": 5,
+          "name": "looking_into_abyss",
+          "prompt": "Melancholic cinematic vertical video 9:16. Close up of the hollow creature's face looking down into the bottomless black abyss beneath it. Wind blowing glowing motes of dust, slow hypnotic push-in until the end."
+        }
+      ],
+      "thumbnail_prompt": "Dark fantasy anime vertical 9:16 portrait. Half human explorer face, half mutated weeping hollow creature with asymmetrical glowing eyes and white fur, looking into a glowing bottomless abyss. High contrast, visceral and tragic aesthetic. Bold bright yellow and cyan typography: \"LA 6TA CAPA\" at top and \"PIERDES TU HUMANIDAD\" at bottom.",
+      "text_overlays": [
+        "LA MALDICIÓN DE LA 6TA CAPA",
+        "SUBIR UN METRO TE CONDENA",
+        "PÉRDIDA DE HUMANIDAD TOTAL",
+        "CRIATURAS NAREHATE",
+        "¿BAJARÍAS SABIENDO ESTO?",
+        "COMENTA ABAJO"
+      ],
+      "metadata": {
+        "youtube_title": "La Maldición Más Perturbadora del Anime (Made in Abyss) 🕳️👁️ #shorts",
+        "tiktok_description": "Si subes un metro... tu carne deja de ser humana. ¿Te atreverías a bajar? #madeinabyss #anime #curiosidadesanime #animetiktok #maldicionabismo #glitchvault #shorts",
+        "hashtags": ["#madeinabyss", "#animehorror", "#darkanime", "#otaku", "#glitchvault", "#datoscuriosos", "#shortsespañol"]
+      }
+    },
+    {
+      "id": "video_05",
+      "title": "Attack on Titan: El Origen Parasitario de los Titanes (Hallucigenia)",
+      "series": "Archivos Prohibidos de Anime (Datos Curiosos / Icebergs con IA)",
+      "audio_file": "assets/day_09/audio_notes/video_05_narration.wav",
+      "output_video": "assets/day_09/videos_finales/video_05_FINAL.mp4",
+      "clips": [
+        {
+          "index": 1,
+          "name": "ancient_tree",
+          "prompt": "Dark anime fantasy vertical video 9:16. Cinematic low angle shot of a massive, ancient gargantuan moss-covered tree in an eerie misty forest. A young ragged girl limping toward its hollow roots in pouring rain, cinematic lighting, 90s anime film aesthetic."
+        },
+        {
+          "index": 2,
+          "name": "falling_pool",
+          "prompt": "Ethereal underwater vertical video 9:16. The girl falls into a deep underground cavern pool filled with glowing bioluminescent turquoise water. Bubbles rising, mysterious silence, eerie glowing motes of light."
+        },
+        {
+          "index": 3,
+          "name": "hallucigenia_creature",
+          "prompt": "Surreal sci-fi creature vertical video 9:16. A strange translucent glowing invertebrate entity with multiple undulating spines and feathery tentacles swimming smoothly through the deep water, heading straight toward the camera with alien grace."
+        },
+        {
+          "index": 4,
+          "name": "lightning_transformation",
+          "prompt": "Cinematic explosive vertical video 9:16. An enormous blinding golden thunderbolt strikes violently out of the water, tearing the ancient tree apart. Visceral muscle fibers and giant bone structures violently assembling in mid-air amidst flying steam and embers."
+        },
+        {
+          "index": 5,
+          "name": "founder_titan",
+          "prompt": "Epic cinematic scale vertical video 9:16. Low angle tracking shot of the gargantuan Founder Titan skeleton standing tall in lightning storm, massive rib cage spanning into the clouds, ground shaking violently, continuous motion until the end."
+        }
+      ],
+      "thumbnail_prompt": "Dark fantasy anime vertical 9:16. Glowing translucent invertebrate parasite with multiple tentacles wrapping around a glowing human spine in deep blue water, with a giant golden lightning blast erupting in the background. Bold bright yellow and white typography: \"EL PARÁSITO\" at top and \"ORIGEN DE LOS TITANES\" at bottom.",
+      "text_overlays": [
+        "NUNCA FUE UN PACTO CON EL DIABLO",
+        "EL PARÁSITO BAJO EL ÁRBOL",
+        "FUSIÓN CON LA MÉDULA ESPINAL",
+        "EL NACIMIENTO DEL TITÁN FUNDADOR",
+        "¿ACEPTARÍAS EL PODER?",
+        "COMENTA ABAJO"
+      ],
+      "metadata": {
+        "youtube_title": "El Origen Parasitario de los Titanes (Shingeki no Kyojin) 🐛⚡ #shorts",
+        "tiktok_description": "Nunca fue un demonio ni magia... fue un parásito en el árbol milenario. ¿Te unirías a él? #attackontitan #shingekinokyojin #ymir #hallucigenia #anime #glitchvault #shorts",
+        "hashtags": ["#attackontitan", "#shingeki", "#ymirfritz", "#titanes", "#animecuriosidades", "#glitchvault", "#shortsespañol"]
+      }
+    },
+    {
+      "id": "video_06",
+      "title": "Jujutsu Kaisen: La Verdadera Forma de Sukuna y su Canibalismo",
+      "series": "Iceberg de Anime Oscuro (Jujutsu Kaisen)",
+      "audio_file": "assets/day_09/audio_notes/video_06_narration.wav",
+      "output_video": "assets/day_09/videos_finales/video_06_FINAL.mp4",
+      "clips": [
+        {
+          "index": 1,
+          "name": "heian_throne",
+          "prompt": "Dark fantasy anime vertical video 9:16. Ancient Heian-era imperial throne room in ruins, lit by flickering dark red torches. Massive intimidating four-armed demon silhouette sitting on a throne made of human bones and skulls, eerie floating dust particles, 35mm gritty film grain, analog VHS glitches."
+        },
+        {
+          "index": 2,
+          "name": "four_eyes_mouth",
+          "prompt": "Terrifying close up vertical video 9:16. Ancient warrior face with four glowing red demonic eyes and pulsing black cursed tribal tattoos. A secondary mouth opening on his muscular torso with sharp teeth, menacing grin, cursed dark aura swirling."
+        },
+        {
+          "index": 3,
+          "name": "uraume_frost",
+          "prompt": "Dark atmospheric anime vertical video 9:16. Pale white-haired chef with monk robes channeling magical frost and pale blue ice over a dark stone ritual table, sharp cleavers and frost crystals forming in the air, ominous culinary ritual."
+        },
+        {
+          "index": 4,
+          "name": "cleave_dismantle",
+          "prompt": "Dynamic cinematic vertical video 9:16. Four muscular arms extending with sharp black nails, unseen slashing shockwaves slicing through wooden pillars and curtains in the background with explosive splinters, sinister laughter expression."
+        },
+        {
+          "index": 5,
+          "name": "malevolent_shrine",
+          "prompt": "Epic cursed anime vertical video 9:16. Malevolent Shrine temple rising behind the four-armed king, blood lake swirling at his feet, storm of invisible slashing blades whipping through the air, continuous menacing eye contact with camera."
+        }
+      ],
+      "thumbnail_prompt": "Dark anime horror concept art vertical 9:16. Close up portrait of four-eyed demonic warrior with four muscular arms, grinning with sharp bloody teeth and black cursed markings glowing red. Behind him, a grotesque warped temple in a sea of blood. Bold yellow and white typography: \"ERA UN CANÍBAL\" at top and \"SUKUNA HEIAN\" at bottom.",
+      "text_overlays": [
+        "LA DIETA DE SUKUNA",
+        "EL VERDADERO TERROR HEIAN",
+        "URAUME: LA CHEF HUMANA",
+        "SANTUARIO MALÉVOLO",
+        "¿CREES QUE ERA HUMANO?",
+        "COMENTA ABAJO"
+      ],
+      "metadata": {
+        "youtube_title": "El Aterrador Canibalismo de Sukuna en la Era Heian 🥩👹 #shorts",
+        "tiktok_description": "La verdadera razón por la que Uraume servía a Sukuna te dejará sin palabras. ¿Conocías este oscuro secreto? #jujutsukaisen #sukuna #heian #uraume #animeoscuro #glitchvault #shorts",
+        "hashtags": ["#jujutsukaisen", "#sukuna", "#heianera", "#animelore", "#iceberganime", "#glitchvault", "#curiosidadesanime"]
+      }
+    },
+    {
+      "id": "video_07",
+      "title": "Bloodborne: El Siniestro Orfanato del Coro y los Niños Celestiales",
+      "series": "Misterios y Lore Macabro en Videojuegos (Bloodborne)",
+      "audio_file": "assets/day_09/audio_notes/video_07_narration.wav",
+      "output_video": "assets/day_09/videos_finales/video_07_FINAL.mp4",
+      "clips": [
+        {
+          "index": 1,
+          "name": "cathedral_moon",
+          "prompt": "Gothic Victorian dark fantasy vertical video 9:16. Ominous stone cathedral tower reaching toward a colossal pale cosmic moon in a stormy black sky. Ravens flying around gothic spires, thick swirling cold mist, 35mm horror film grain, dark vignette."
+        },
+        {
+          "index": 2,
+          "name": "orphanage_interior",
+          "prompt": "Eerie interior shot vertical video 9:16. Abandoned Victorian orphanage corridor, rotting wooden cribs, shattered porcelain dolls on dusty floorboards, glowing blue specimen jars with cosmic slug larvae lining iron shelves."
+        },
+        {
+          "index": 3,
+          "name": "choir_experiment",
+          "prompt": "Chilling Victorian horror vertical video 9:16. Shadowy scholars in pristine white robes and blindfolds injecting glowing blue serum into a metallic surgical table, flickering gas lamps, dark analog horror aesthetic."
+        },
+        {
+          "index": 4,
+          "name": "celestial_beings",
+          "prompt": "Terrifying creature shot vertical video 9:16. Grotesque blue bulbous-headed celestial beings wandering through moonlit gothic arches, smooth rubbery skin, glowing pale blue eyes, unnatural twitching movements."
+        },
+        {
+          "index": 5,
+          "name": "cosmic_garden",
+          "prompt": "Epic cosmic horror vertical video 9:16. Massive towering celestial emissary rising from a field of luminescent white flowers, swirling cosmic nebula overhead, reaching out long pale fingers toward camera, continuous cinematic motion."
+        }
+      ],
+      "thumbnail_prompt": "Dark Victorian cosmic horror concept art vertical 9:16. Close up of a pale celestial emissary with a huge bulbous blue glowing head and glowing pupil-less eyes, peering through rusty iron bars of an antique orphanage door. Bold yellow and white typography: \"EL OSCURO ORFANATO\" at top and \"BLOODBORNE LORE\" at bottom.",
+      "text_overlays": [
+        "EL SECRETO DEL ORFANATO",
+        "CARIDAD DE SANGRE",
+        "NIÑOS CELESTIALES",
+        "EL HORROR DEL CORO",
+        "¿FUE CARIDAD O LOCURA?",
+        "COMENTA ABAJO"
+      ],
+      "metadata": {
+        "youtube_title": "El Espeluznante Experimento con Niños en Bloodborne 👶👾 #shorts",
+        "tiktok_description": "Lo que el Coro le hizo a los huérfanos de Yharnam supera cualquier límite de cordura. ¿Conocías este secreto? #bloodborne #fromsoftware #loredarksouls #soulsborne #videojuegos #glitchvault #shorts",
+        "hashtags": ["#bloodborne", "#bloodbornelore", "#fromsoftware", "#soulsborne", "#gaminglore", "#glitchvault", "#ps5"]
+      }
+    },
+    {
+      "id": "video_08",
+      "title": "Dark Souls: La Mentira de Anor Londo y la Ilusión de los Dioses",
+      "series": "Misterios y Lore Macabro en Videojuegos (Dark Souls)",
+      "audio_file": "assets/day_09/audio_notes/video_08_narration.wav",
+      "output_video": "assets/day_09/videos_finales/video_08_FINAL.mp4",
+      "clips": [
+        {
+          "index": 1,
+          "name": "sunny_anor_londo",
+          "prompt": "Majestic dark fantasy vertical video 9:16. Colossal cathedral city of Anor Londo gleaming under a blinding golden sunset, soaring white marble spires and arches, golden dust motes floating, sweeping camera tilt up, 35mm cinematic grain."
+        },
+        {
+          "index": 2,
+          "name": "silver_knight",
+          "prompt": "Epic medium shot vertical video 9:16. Imposing Silver Knight in polished ornate plate armor standing sentinel on a narrow gothic parapet, clutching a colossal dragonslayer greatbow, gleaming sunlight reflections."
+        },
+        {
+          "index": 3,
+          "name": "illusion_shatter",
+          "prompt": "Dramatic visual transition vertical video 9:16. Golden sunny sky cracking like shattered glass into pitch-black night, golden light dissolving into deep purple shadows, wind whipping through dark arches, eerie reality reveal."
+        },
+        {
+          "index": 4,
+          "name": "dark_anor_londo",
+          "prompt": "Chilling dark fantasy vertical video 9:16. The same city of Anor Londo now drowned in freezing pitch-black midnight, dark blue moonlight casting long eerie shadows on cracked weathered stone, silent deserted gothic ruins."
+        },
+        {
+          "index": 5,
+          "name": "gwyndolin_altar",
+          "prompt": "Sinister dark fantasy vertical video 9:16. Dark Sun Gwyndolin in ceremonial robes and golden sun crown, serpent tails slithering across dark marble floor toward camera, bow drawn in defensive stance, continuous creeping movement."
+        }
+      ],
+      "thumbnail_prompt": "Dark Souls concept art vertical 9:16. Split composition: top half shows golden shining Anor Londo with a radiant sun, bottom half shows dark decayed ruins under a cold crescent moon with Gwyndolin's glowing crown and slithering serpent legs. Bold yellow and white typography: \"TODO FUE UNA MENTIRA\" at top and \"ANOR LONDO OSCURA\" at bottom.",
+      "text_overlays": [
+        "LA ILUSIÓN DE LOS DIOSES",
+        "LA FARSA DE ANOR LONDO",
+        "CIELO DE MENTIRA",
+        "LA NOCHE ETERNA",
+        "¿APAGARÍAS LA LLAMA?",
+        "COMENTA ABAJO"
+      ],
+      "metadata": {
+        "youtube_title": "La Gran Farsa de Anor Londo en Dark Souls ☀️🌑 #shorts",
+        "tiktok_description": "Anor Londo no es lo que parece. La triste verdad detrás de la ciudad de los dioses y el engaño a los No Muertos. #darksouls #fromsoftware #anorlondo #gwyndolin #loredarksouls #glitchvault #shorts",
+        "hashtags": ["#darksouls", "#darksoulslore", "#anorlondo", "#fromsoftware", "#videogames", "#glitchvault", "#gaminglore"]
+      }
+    },
+    {
+      "id": "video_09",
+      "title": "Silent Hill 2: El Perturbador Simbolismo de Pyramid Head",
+      "series": "Misterios y Lore Macabro en Videojuegos (Silent Hill 2)",
+      "audio_file": "assets/day_09/audio_notes/video_09_narration.wav",
+      "output_video": "assets/day_09/videos_finales/video_09_FINAL.mp4",
+      "clips": [
+        {
+          "index": 1,
+          "name": "foggy_corridor",
+          "prompt": "Psychological survival horror vertical video 9:16. Decayed apartment hallway in thick foggy Silent Hill, peeling green wallpaper, dim flickering bulb swinging slowly, puddle on concrete floor, 35mm gritty noise, analog VHS tracking lines."
+        },
+        {
+          "index": 2,
+          "name": "pyramid_head_walk",
+          "prompt": "Terrifying medium shot vertical video 9:16. Massive Pyramid Head figure walking slowly down a rusted corridor, dragging a giant rusted iron Great Knife on the floor with screeching friction sparks, stained white butcher smock, heavy metallic helmet."
+        },
+        {
+          "index": 3,
+          "name": "james_hiding",
+          "prompt": "Tense close up vertical video 9:16. Sweating terrified man peeking through wooden closet slats, trembling eyes dilated in absolute panic, dim ambient shadow, dark claustrophobic framing."
+        },
+        {
+          "index": 4,
+          "name": "execution_spear",
+          "prompt": "Dramatic dark cinematic vertical video 9:16. Pyramid Head standing over a rusted metal grate, thrusting a heavy iron spear downward in mechanical execution ritual, dark crimson fluids and atmospheric smoke."
+        },
+        {
+          "index": 5,
+          "name": "double_suicide",
+          "prompt": "Poetic psychological horror vertical video 9:16. Two Pyramid Heads facing each other in a misty rusted chamber, impaling their own throats on ceremonial spears in unison, slowly toppling backward onto the floor, continuous solemn motion."
+        }
+      ],
+      "thumbnail_prompt": "Silent Hill 2 psychological horror concept art vertical 9:16. Terrifying close up of Pyramid Head's rusted geometric iron helmet, dripping with grime, dragging his giant bloody butcher knife toward camera in a foggy dilapidated hallway. Bold yellow and white typography: \"NACIÓ DE SU CULPA\" at top and \"PYRAMID HEAD REAL\" at bottom.",
+      "text_overlays": [
+        "EL VERDUGO DE LA CULPA",
+        "NO ES UN MONSTRUO COMÚN",
+        "EL DESEO DE CASTIGO",
+        "NACIDO DE SU MENTE",
+        "¿MERECÍA EL CASTIGO?",
+        "COMENTA ABAJO"
+      ],
+      "metadata": {
+        "youtube_title": "El Secreto Más Oscuro de Pyramid Head en Silent Hill 2 🔺🗡️ #shorts",
+        "tiktok_description": "Pyramid Head no es lo que creías. La estremecedora verdad sobre la culpa de James Sunderland y su verdugo mental. #silenthill2 #pyramidhead #silenthill #terrorpsicologico #konami #glitchvault #shorts",
+        "hashtags": ["#silenthill", "#silenthill2", "#pyramidhead", "#terrorpsicologico", "#horrorgaming", "#glitchvault", "#survivalhorror"]
+      }
+    },
+    {
+      "id": "video_10",
+      "title": "Fallout: El Macabro Experimento del Refugio 11",
+      "series": "Misterios y Lore Macabro en Videojuegos (Fallout: New Vegas)",
+      "audio_file": "assets/day_09/audio_notes/video_10_narration.wav",
+      "output_video": "assets/day_09/videos_finales/video_10_FINAL.mp4",
+      "clips": [
+        {
+          "index": 1,
+          "name": "vault_door_opening",
+          "prompt": "Post-apocalyptic retro-sci-fi vertical video 9:16. Giant heavy steel Vault gear door rolling open in a dark underground bunker, flickering neon signs, industrial steam hissing, 35mm gritty film grain, analog VHS distortion."
+        },
+        {
+          "index": 2,
+          "name": "election_posters",
+          "prompt": "Creepy underground hallway vertical video 9:16. Concrete corridor lined with torn 1950s propaganda voting posters stained with dried blood, flickering fluorescent strip lights buzzing overhead, slow atmospheric dolly shot."
+        },
+        {
+          "index": 3,
+          "name": "sacrifice_chair",
+          "prompt": "Chilling cinematic vertical video 9:16. Solitary steel chair illuminated by a single harsh spotlight in an empty theater room, flickering projector screen showing a vintage cartoon, automated ceiling turrets pointing lasers downward."
+        },
+        {
+          "index": 4,
+          "name": "five_survivors",
+          "prompt": "Emotional dramatic vertical video 9:16. Five exhausted survivors in weathered blue and yellow Vault suits sitting in a circle in dim emergency lighting, slowly lowering their weapons to the floor in solemn acceptance."
+        },
+        {
+          "index": 5,
+          "name": "vault_revelation",
+          "prompt": "Poetic post-apocalyptic vertical video 9:16. Main bunker vault doors grinding open to reveal a blinding sunlit desert wasteland, wind blowing dust into the dark corridor, continuous cinematic camera moving toward the light."
+        }
+      ],
+      "thumbnail_prompt": "Fallout retro-futuristic horror concept art vertical 9:16. Creepy vintage 1950s election poster on a rusted steel vault wall with a smiling candidate and bold blood-spattered text. In foreground, a skeleton in a blue Vault suit sitting in an execution chair under a harsh spotlight. Bold yellow and white typography: \"EL REFUGIO DEMOCRÁTICO\" at top and \"TODOS DEBÍAN MORIR\" at bottom.",
+      "text_overlays": [
+        "EL PEOR REFUGIO DE VAULT-TEC",
+        "VOTAR PARA MORIR",
+        "SACRIFICIO OBLIGATORIO",
+        "LA CRUEL VERDAD",
+        "¿HABRÍAS VOTADO?",
+        "COMENTA ABAJO"
+      ],
+      "metadata": {
+        "youtube_title": "El Experimento Más Perturbador de Fallout: Refugio 11 🗳️💀 #shorts",
+        "tiktok_description": "En el Refugio 11 votar era una condena de muerte. La desgarradora revelación final que quebró a los supervivientes. #fallout #falloutnewvegas #vaulttec #lorefallout #videojuegos #glitchvault #shorts",
+        "hashtags": ["#fallout", "#falloutnv", "#vaulttec", "#gaminglore", "#icebergvideojuegos", "#glitchvault", "#falloutlore"]
+      }
+    }
+  ]
+}

@@ -24,26 +24,40 @@ function saveWaveFile(filename, pcmData, channels = 1, rate = 24000, sampleWidth
   });
 }
 
-async function generateNarration(ai, text, outPath) {
-  const response = await ai.models.generateContent({
-    model: MODEL,
-    contents: [{ parts: [{ text }] }],
-    config: {
-      responseModalities: ['AUDIO'],
-      speechConfig: {
-        voiceConfig: { prebuiltVoiceConfig: { voiceName: VOICE } },
-      },
-    },
-  });
+async function generateNarration(ai, text, outPath, maxRetries = 3) {
+  for (let attempt = 1; attempt <= maxRetries; attempt++) {
+    try {
+      const response = await ai.models.generateContent({
+        model: MODEL,
+        contents: [{ parts: [{ text }] }],
+        config: {
+          responseModalities: ['AUDIO'],
+          speechConfig: {
+            voiceConfig: { prebuiltVoiceConfig: { voiceName: VOICE } },
+          },
+        },
+      });
 
-  const part = response.candidates?.[0]?.content?.parts?.[0];
-  const audioData = part?.inlineData?.data;
-  if (!audioData) {
-    throw new Error('La respuesta no trajo audio. Respuesta cruda: ' + JSON.stringify(response, null, 2).slice(0, 2000));
+      const part = response.candidates?.[0]?.content?.parts?.[0];
+      const audioData = part?.inlineData?.data;
+      if (!audioData) {
+        throw new Error('La respuesta no trajo audio. Respuesta cruda: ' + JSON.stringify(response, null, 2).slice(0, 2000));
+      }
+
+      const pcmBuffer = Buffer.from(audioData, 'base64');
+      await saveWaveFile(outPath, pcmBuffer);
+      return;
+    } catch (err) {
+      const is503 = err.message && (err.message.includes('503') || err.message.includes('UNAVAILABLE') || err.message.includes('high demand'));
+      if (is503 && attempt < maxRetries) {
+        const waitSec = attempt * 4;
+        console.warn(`    [Aviso] 503 detectado. Reintentando intento ${attempt + 1}/${maxRetries} en ${waitSec}s...`);
+        await new Promise(r => setTimeout(r, waitSec * 1000));
+      } else {
+        throw err;
+      }
+    }
   }
-
-  const pcmBuffer = Buffer.from(audioData, 'base64');
-  await saveWaveFile(outPath, pcmBuffer);
 }
 
 async function main() {
